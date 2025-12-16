@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm George! 👋
 
-<!--
-**Lowzy2k/Lowzy2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer based in **Greece** 🇬🇷. I have a background in Android and multiplatform development, currently expanding into modern Web Technologies.
 
-Here are some ideas to get you started:
+- 🎓 I’m currently finishing my degree in **Computer, Informatics, and Telecommunications Engineering** at **IHU**.
+- 🛠️ I have previous experience as a **Fiber Optic Technician**, which gave me a strong foundation in hardware and troubleshooting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+
+**Languages & Frameworks:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
+---
+
+### 🔭 Current Focus
+I am currently working on **Farm Link**, a project aiming to innovate the agricultural sector and connect farmers and agronomists with modern technology.
+
+### 🗂️ Previous Projects
+Before diving into my current stack, I built several projects using **JavaScript** and **Java** including:
+* 🎬 **Netflix Clone** - A front-end recreation of the popular streaming service.
+* 📝 **Personal Blog** - A custom-built blogging platform.
+* 🌍 **Trip Advisor** - A university project of an android trip advisor application.> [📄 Click here to view the Trip Advisor PDF](FINAL_REPORT.pdf)
+
+---
+
+### 📫 How to reach me
+* **Email:** lacresia1@hotmail.com
