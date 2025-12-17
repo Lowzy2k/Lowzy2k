@@ -19,8 +19,8 @@ I am currently working on **Farm Link**, a project aiming to innovate the agricu
 
 ### 🗂️ Previous Projects
 Before diving into my current stack, I built several projects using **JavaScript** and **Java** including:
-* 🎬 **Netflix Clone** - A front-end recreation of the popular streaming service.
-* 📝 **Personal Blog** - A custom-built blogging platform.
+* 🎬 **Netflix Clone** - A front-end recreation of the popular streaming service using TMDB API.
+* 📝 **Personal Blog** - A custom-built tech blogging platform.
 * 🌍 **Trip Advisor** - A university project of an android trip advisor application.> [📄 Click here to view the Trip Advisor PDF](FINAL_REPORT.pdf)
 
 ---
